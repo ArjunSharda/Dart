@@ -1,7 +1,5 @@
 void main() {
-  multiply(10, 2);
-}
-
-multiply(var1, var2) {
-  print(var1*var2);
+  double var1 = 5.02;
+  double var2 = 2.07;
+  print(var1+var2);
 }
